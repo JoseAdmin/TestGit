@@ -7,6 +7,8 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		System.out.println("初始化项目");
+		
+		System.out.println("远程第一次修改了项目");
 
 	}
 
